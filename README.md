@@ -44,3 +44,5 @@ GET :http://127.0.0.1:8000/api/book/{book_id}/
 PUT :http://127.0.0.1:8000/api/update-book/{book_id}
 - Delete a book:
 DELETE :http://127.0.0.1:8000/api/delete-book/{book_id}
+- Add review :http://127.0.0.1:8000/api/reviews
+  
