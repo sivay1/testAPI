@@ -9,13 +9,13 @@ This is a Django Rest Framework (DRF) project that provides an API for managing 
 - **Create:** Add new books to the database.
 - **Read:** Retrieve information about books.
 - **Update:** Modify existing book entries.
-- **Delete:** Remove books from the database.
+- **Delete:** Remove books & marking active status as false.
 
 ## Getting Started
 
 ### Prerequisites
 
-- Python 3.x
+- Python
 - Django
 - Django Rest Framework
 
